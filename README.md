@@ -1,21 +1,19 @@
 # 👋 Halo, Saya Aura Nabila!
 
 Selamat datang di repositori saya!  
-Saya adalah seorang mahasiswa yang sedang belajar dan mengembangkan kemampuan di bidang **teknologi informasi dan pemrograman web**.  
-Repo ini berisi berbagai hasil **praktikum dan proyek kecil** yang saya kerjakan selama perkuliahan.  
+Saya adalah seorang mahasiswa yang sedang belajar pemrograman 
 
 ---
 
 ## 💻 Tentang Saya
 - 🎓 Mahasiswa aktif di bidang Informatika
-- 💡 Tertarik dengan pengembangan web, desain UI/UX, dan sistem pakar
-- 📚 Saat ini sedang mempelajari HTML, CSS, JavaScript, dan PHP
+- 📚 Saat ini sedang mempelajari HTML, CSS, dan PHP
 - 🧠 Suka membuat proyek kecil untuk latihan logika & desain
 
 ---
 
 ## 🧰 Tools dan Bahasa yang Saya Gunakan
-- HTML, CSS, JavaScript  
+- HTML, CSS 
 - PHP & MySQL  
 - Git & GitHub  
 - Visual Studio Code  
@@ -26,15 +24,16 @@ Repo ini berisi berbagai hasil **praktikum dan proyek kecil** yang saya kerjakan
 ## 🚀 Proyek di Repositori Ini
 | Modul | Deskripsi |
 |--------|------------|
-| 🧩 **Modul 1** | Pengenalan dasar HTML |
-| 🧩 **Modul 2** | Struktur dasar dan penggunaan CSS |
-| 🧩 **Modul 3** | Integrasi JavaScript dalam halaman web |
+| 🧩 **Modul 1** | VSC |
+| 🧩 **Modul 2** | GitHub Pages |
+| 🧩 **Modul 3** | HTML |
+| 🧩 **Modul 3** | Semantic HTML |
 
 ---
 
 ## 📫 Hubungi Saya
-Jika ingin berdiskusi atau kolaborasi, kamu bisa menghubungi saya di:  
-📧 **email:** [namaemailkamu@example.com](mailto:namaemailkamu@example.com)
+Jika ingin menghubungi saya di:  
+📧 **email:**(auranabila.baf@gmail.com)
 
 ---
 
